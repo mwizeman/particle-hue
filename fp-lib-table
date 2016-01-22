@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name particle-boards)(type Legacy)(uri "$(KIPRJMOD)/kicad-particle/particle-boards.mod")(options "")(descr ""))
+  (lib (name switch-rot)(type Legacy)(uri "$(KIPRJMOD)/KM_rotary-switch/switch-rot.mod")(options "")(descr ""))
+)

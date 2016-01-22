@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>/Users/mwizeman/Documents/kicad/particle-hue.sch</source>
+    <date>Thursday, January 21, 2016 'PMt' 09:20:10 PM</date>
+    <tool>Eeschema 4.0.1-stable</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>particle-hue.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="U1">
+      <value>PHOTON</value>
+      <libsource lib="particle-boards" part="PHOTON"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>569D989C</tstamp>
+    </comp>
+    <comp ref="SW2">
+      <value>SW_PUSH</value>
+      <libsource lib="device" part="SW_PUSH"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>569EEDDA</tstamp>
+    </comp>
+    <comp ref="SW3">
+      <value>SW_PUSH</value>
+      <libsource lib="device" part="SW_PUSH"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>569EEF0A</tstamp>
+    </comp>
+    <comp ref="SW4">
+      <value>SW_PUSH</value>
+      <libsource lib="device" part="SW_PUSH"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>569EEF2D</tstamp>
+    </comp>
+    <comp ref="SW5">
+      <value>SW_PUSH</value>
+      <libsource lib="device" part="SW_PUSH"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>569EEF4A</tstamp>
+    </comp>
+    <comp ref="SW6">
+      <value>SW_PUSH</value>
+      <libsource lib="device" part="SW_PUSH"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>569EEF6C</tstamp>
+    </comp>
+    <comp ref="S4">
+      <value>ENCODER</value>
+      <libsource lib="switch-enc" part="ENCODER"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>569EF627</tstamp>
+    </comp>
+    <comp ref="R10">
+      <value>R</value>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>569EFAE4</tstamp>
+    </comp>
+    <comp ref="R8">
+      <value>R</value>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>569EFB3B</tstamp>
+    </comp>
+    <comp ref="C8">
+      <value>C</value>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>569EFB7E</tstamp>
+    </comp>
+    <comp ref="C6">
+      <value>C</value>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>569EFBC0</tstamp>
+    </comp>
+    <comp ref="S3">
+      <value>ENCODER</value>
+      <libsource lib="switch-enc" part="ENCODER"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>569F0669</tstamp>
+    </comp>
+    <comp ref="R9">
+      <value>R</value>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>569F0675</tstamp>
+    </comp>
+    <comp ref="R7">
+      <value>R</value>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>569F067B</tstamp>
+    </comp>
+    <comp ref="C7">
+      <value>C</value>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>569F0681</tstamp>
+    </comp>
+    <comp ref="C5">
+      <value>C</value>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>569F0687</tstamp>
+    </comp>
+    <comp ref="S2">
+      <value>ENCODER</value>
+      <libsource lib="switch-enc" part="ENCODER"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>569F0FC4</tstamp>
+    </comp>
+    <comp ref="R6">
+      <value>R</value>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>569F0FD0</tstamp>
+    </comp>
+    <comp ref="R4">
+      <value>R</value>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>569F0FD6</tstamp>
+    </comp>
+    <comp ref="C4">
+      <value>C</value>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>569F0FDC</tstamp>
+    </comp>
+    <comp ref="C2">
+      <value>C</value>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>569F0FE2</tstamp>
+    </comp>
+    <comp ref="S1">
+      <value>ENCODER</value>
+      <libsource lib="switch-enc" part="ENCODER"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>569F1001</tstamp>
+    </comp>
+    <comp ref="R5">
+      <value>R</value>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>569F100D</tstamp>
+    </comp>
+    <comp ref="R3">
+      <value>R</value>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>569F1013</tstamp>
+    </comp>
+    <comp ref="C3">
+      <value>C</value>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>569F1019</tstamp>
+    </comp>
+    <comp ref="C1">
+      <value>C</value>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>569F101F</tstamp>
+    </comp>
+    <comp ref="SW1">
+      <value>SW_PUSH</value>
+      <libsource lib="device" part="SW_PUSH"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>569F21CA</tstamp>
+    </comp>
+    <comp ref="P1">
+      <value>MOTION_SENSOR</value>
+      <libsource lib="conn" part="CONN_01X03"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56A1AAC9</tstamp>
+    </comp>
+    <comp ref="P2">
+      <value>TEMP_SENSOR</value>
+      <libsource lib="conn" part="CONN_01X03"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56A1AB3A</tstamp>
+    </comp>
+    <comp ref="R2">
+      <value>R</value>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56A1B35E</tstamp>
+    </comp>
+    <comp ref="R1">
+      <value>R</value>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56A1B3D3</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="device" part="C">
+      <description>Unpolarized capacitor</description>
+      <footprints>
+        <fp>C?</fp>
+        <fp>C_????_*</fp>
+        <fp>C_????</fp>
+        <fp>SMD*_c</fp>
+        <fp>Capacitor*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="conn" part="CONN_01X03">
+      <description>Connector 01x03</description>
+      <footprints>
+        <fp>Pin_Header_Straight_1X03</fp>
+        <fp>Pin_Header_Angled_1X03</fp>
+        <fp>Socket_Strip_Straight_1X03</fp>
+        <fp>Socket_Strip_Angled_1X03</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">P</field>
+        <field name="Value">CONN_01X03</field>
+      </fields>
+      <pins>
+        <pin num="1" name="P1" type="passive"/>
+        <pin num="2" name="P2" type="passive"/>
+        <pin num="3" name="P3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="switch-enc" part="ENCODER">
+      <fields>
+        <field name="Reference">S</field>
+        <field name="Value">ENCODER</field>
+      </fields>
+      <pins>
+        <pin num="1" name="G" type="input"/>
+        <pin num="2" name="A" type="input"/>
+        <pin num="3" name="B" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="particle-boards" part="PHOTON">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">PHOTON</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VIN" type="power_in"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="TX" type="output"/>
+        <pin num="4" name="RX" type="input"/>
+        <pin num="5" name="WKUP" type="input"/>
+        <pin num="6" name="DAC" type="output"/>
+        <pin num="7" name="A5" type="BiDi"/>
+        <pin num="8" name="A4" type="BiDi"/>
+        <pin num="9" name="A3" type="BiDi"/>
+        <pin num="10" name="A2" type="BiDi"/>
+        <pin num="11" name="A1" type="BiDi"/>
+        <pin num="12" name="A0" type="BiDi"/>
+        <pin num="13" name="D0" type="BiDi"/>
+        <pin num="14" name="D1" type="BiDi"/>
+        <pin num="15" name="D2" type="BiDi"/>
+        <pin num="16" name="D3" type="BiDi"/>
+        <pin num="17" name="D4" type="BiDi"/>
+        <pin num="18" name="D5" type="BiDi"/>
+        <pin num="19" name="D6" type="BiDi"/>
+        <pin num="20" name="D7" type="BiDi"/>
+        <pin num="22" name="VBAT" type="power_in"/>
+        <pin num="23" name="RST" type="input"/>
+        <pin num="24" name="3.3V" type="power_out"/>
+      </pins>
+    </libpart>
+    <libpart lib="device" part="R">
+      <description>Resistor</description>
+      <footprints>
+        <fp>R_*</fp>
+        <fp>Resistor_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="device" part="SW_PUSH">
+      <description>Button</description>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_PUSH</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="conn">
+      <uri>/Users/mwizeman/Library/Application Support/kicad/library/conn.lib</uri>
+    </library>
+    <library logical="particle-boards">
+      <uri>/Users/mwizeman/Documents/kicad/kicad-particle/particle-boards.lib</uri>
+    </library>
+    <library logical="switch-enc">
+      <uri>/Users/mwizeman/Documents/kicad/KM_rotary-switch/switch-enc.lib</uri>
+    </library>
+    <library logical="device">
+      <uri>/Users/mwizeman/Library/Application Support/kicad/library/device.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="Net-(SW4-Pad2)">
+      <node ref="U1" pin="8"/>
+      <node ref="SW4" pin="2"/>
+    </net>
+    <net code="2" name="Net-(SW3-Pad2)">
+      <node ref="U1" pin="7"/>
+      <node ref="SW3" pin="2"/>
+    </net>
+    <net code="3" name="Net-(SW2-Pad2)">
+      <node ref="U1" pin="6"/>
+      <node ref="SW2" pin="2"/>
+    </net>
+    <net code="4" name="Net-(SW5-Pad2)">
+      <node ref="SW5" pin="2"/>
+      <node ref="U1" pin="9"/>
+    </net>
+    <net code="5" name="/D7">
+      <node ref="U1" pin="20"/>
+      <node ref="C8" pin="1"/>
+      <node ref="R10" pin="1"/>
+    </net>
+    <net code="6" name="/D6">
+      <node ref="C6" pin="1"/>
+      <node ref="R8" pin="2"/>
+      <node ref="U1" pin="19"/>
+    </net>
+    <net code="7" name="Net-(R10-Pad2)">
+      <node ref="R10" pin="2"/>
+      <node ref="S4" pin="3"/>
+    </net>
+    <net code="8" name="Net-(R8-Pad1)">
+      <node ref="R8" pin="1"/>
+      <node ref="S4" pin="2"/>
+    </net>
+    <net code="9" name="/D3">
+      <node ref="U1" pin="16"/>
+      <node ref="C7" pin="1"/>
+      <node ref="R9" pin="1"/>
+    </net>
+    <net code="10" name="/D2">
+      <node ref="R7" pin="2"/>
+      <node ref="C5" pin="1"/>
+      <node ref="U1" pin="15"/>
+    </net>
+    <net code="11" name="Net-(R9-Pad2)">
+      <node ref="S3" pin="3"/>
+      <node ref="R9" pin="2"/>
+    </net>
+    <net code="12" name="Net-(R7-Pad1)">
+      <node ref="R7" pin="1"/>
+      <node ref="S3" pin="2"/>
+    </net>
+    <net code="13" name="+5V">
+      <node ref="U1" pin="1"/>
+      <node ref="P1" pin="1"/>
+    </net>
+    <net code="14" name="GND">
+      <node ref="U1" pin="2"/>
+      <node ref="S2" pin="1"/>
+      <node ref="P1" pin="2"/>
+      <node ref="P2" pin="3"/>
+      <node ref="C4" pin="2"/>
+      <node ref="S3" pin="1"/>
+      <node ref="C6" pin="2"/>
+      <node ref="C2" pin="2"/>
+      <node ref="C8" pin="2"/>
+      <node ref="S1" pin="1"/>
+      <node ref="S4" pin="1"/>
+      <node ref="R1" pin="2"/>
+      <node ref="C5" pin="2"/>
+      <node ref="C7" pin="2"/>
+      <node ref="C3" pin="2"/>
+      <node ref="C1" pin="2"/>
+    </net>
+    <net code="15" name="Net-(SW6-Pad2)">
+      <node ref="SW6" pin="2"/>
+      <node ref="U1" pin="10"/>
+    </net>
+    <net code="16" name="Net-(P2-Pad2)">
+      <node ref="P2" pin="2"/>
+      <node ref="R2" pin="1"/>
+    </net>
+    <net code="17" name="+3V3">
+      <node ref="SW5" pin="1"/>
+      <node ref="SW6" pin="1"/>
+      <node ref="SW4" pin="1"/>
+      <node ref="SW3" pin="1"/>
+      <node ref="U1" pin="24"/>
+      <node ref="SW2" pin="1"/>
+      <node ref="SW1" pin="1"/>
+      <node ref="P2" pin="1"/>
+    </net>
+    <net code="18" name="Net-(SW1-Pad2)">
+      <node ref="SW1" pin="2"/>
+      <node ref="U1" pin="5"/>
+    </net>
+    <net code="19" name="/A0">
+      <node ref="P1" pin="3"/>
+      <node ref="U1" pin="12"/>
+    </net>
+    <net code="20" name="/A1">
+      <node ref="R2" pin="2"/>
+      <node ref="R1" pin="1"/>
+      <node ref="U1" pin="11"/>
+    </net>
+    <net code="21" name="/D5">
+      <node ref="U1" pin="18"/>
+      <node ref="R6" pin="1"/>
+      <node ref="C4" pin="1"/>
+    </net>
+    <net code="22" name="/D4">
+      <node ref="C2" pin="1"/>
+      <node ref="R4" pin="2"/>
+      <node ref="U1" pin="17"/>
+    </net>
+    <net code="23" name="Net-(R6-Pad2)">
+      <node ref="S2" pin="3"/>
+      <node ref="R6" pin="2"/>
+    </net>
+    <net code="24" name="Net-(R4-Pad1)">
+      <node ref="R4" pin="1"/>
+      <node ref="S2" pin="2"/>
+    </net>
+    <net code="25" name="/D1">
+      <node ref="C3" pin="1"/>
+      <node ref="R5" pin="1"/>
+      <node ref="U1" pin="14"/>
+    </net>
+    <net code="26" name="/D0">
+      <node ref="C1" pin="1"/>
+      <node ref="U1" pin="13"/>
+      <node ref="R3" pin="2"/>
+    </net>
+    <net code="27" name="Net-(R5-Pad2)">
+      <node ref="S1" pin="3"/>
+      <node ref="R5" pin="2"/>
+    </net>
+    <net code="28" name="Net-(R3-Pad1)">
+      <node ref="R3" pin="1"/>
+      <node ref="S1" pin="2"/>
+    </net>
+    <net code="29" name="Net-(U1-Pad3)">
+      <node ref="U1" pin="3"/>
+    </net>
+    <net code="30" name="Net-(U1-Pad4)">
+      <node ref="U1" pin="4"/>
+    </net>
+    <net code="31" name="Net-(U1-Pad22)">
+      <node ref="U1" pin="22"/>
+    </net>
+    <net code="32" name="Net-(U1-Pad23)">
+      <node ref="U1" pin="23"/>
+    </net>
+  </nets>
+</export>
