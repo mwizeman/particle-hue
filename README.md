@@ -1,2 +1,2 @@
 # particle-hue
-A remote set of buttons an knobs used to control Philips Hue lights
+A remote set of buttons and knobs used to control Philips Hue lights
